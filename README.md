@@ -2,7 +2,7 @@
 
 This repo contains basic setup and configuration for React Three Fiber using React Native CLI
 
-![Demo](https://github.com/Rakha112/react-native-3D-basic-setup/blob/main/Demo.png)
+<img src="https://github.com/Rakha112/react-native-3D-basic-setup/blob/main/Demo.png" height="600">
 
 ## Run Locally
 
